@@ -1,3 +1,8 @@
+/*
+Program that creates expression trees and has methods for evaluating postfix and prefix expressions from these trees.
+Creates ExpressionNode objects which hold a data value as well as the values of their left and right children.
+*/
+
 import java.util.LinkedList;
 
 public class ExpressionTree
